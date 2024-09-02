@@ -1,0 +1,2 @@
+print = say
+say("hello world")
